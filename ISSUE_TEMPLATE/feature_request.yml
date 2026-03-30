@@ -1,0 +1,59 @@
+name: "Feature Request"
+description: Suggest a new feature or enhancement
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Got an idea?
+
+        We'd love to hear it! Before submitting, please search existing issues to check if this has already been suggested.
+
+  - type: input
+    id: component
+    attributes:
+      label: Component
+      description: Which part of the system would this affect?
+      placeholder: "e.g., web dashboard, API, mobile app, AI chat"
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Statement
+      description: Is this related to a problem? Describe the pain point.
+      placeholder: "I'm frustrated when [...] because [...]"
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution
+      description: Describe the feature or change you'd like to see.
+      placeholder: A clear description of what you want to happen.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: Have you considered other approaches or workarounds?
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      description: How important is this feature to you?
+      options:
+        - Nice to have
+        - Would be helpful
+        - Important
+        - Critical for my use case
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional Context
+      description: Mockups, screenshots, links to similar features in other apps, or any other context.
