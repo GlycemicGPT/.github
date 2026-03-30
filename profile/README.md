@@ -256,5 +256,5 @@ See the [LICENSE](https://github.com/GlycemicGPT/GlycemicGPT/blob/develop/LICENS
 
 <p align="center">
   <strong>Licensed under <a href="https://github.com/GlycemicGPT/GlycemicGPT/blob/develop/LICENSE">GPL-3.0</a></strong><br/>
-  <sub>Built with care for the diabetes community. 💙</sub>
+  <sub>Built with care for the diabetes community. Stay safe. 💙</sub>
 </p>
