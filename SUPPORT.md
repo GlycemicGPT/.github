@@ -2,7 +2,7 @@
 
 ## Questions & Troubleshooting
 
-For questions about using GlycemicGPT, setup help, or troubleshooting, please post in [Discussions (Q&A)](https://github.com/orgs/GlycemicGPT/discussions/categories/q-a). This is the best place to get help from the community and maintainers.
+For questions about using GlycemicGPT, setup help, or troubleshooting, please post in [Discussions (Q&A)](https://github.com/GlycemicGPT/GlycemicGPT/discussions/categories/q-a). This is the best place to get help from the community and maintainers.
 
 ## Bug Reports
 
@@ -16,7 +16,7 @@ Found a bug? Use the issue templates in the relevant repository:
 Have an idea? Two options:
 
 - **Formal request:** [Feature Request](https://github.com/GlycemicGPT/GlycemicGPT/issues/new?template=feature_request.yml) issue template
-- **Early-stage idea:** [Discussions (Ideas)](https://github.com/orgs/GlycemicGPT/discussions/categories/ideas) for brainstorming
+- **Early-stage idea:** [Discussions (Ideas)](https://github.com/GlycemicGPT/GlycemicGPT/discussions/categories/ideas) for brainstorming
 
 ## Security Vulnerabilities
 

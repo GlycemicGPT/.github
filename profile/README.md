@@ -13,7 +13,7 @@
   <a href="https://glycemicgpt.org">Website</a> &middot;
   <a href="https://github.com/GlycemicGPT/GlycemicGPT">Platform</a> &middot;
   <a href="https://github.com/GlycemicGPT/GlycemicGPT/blob/develop/CONTRIBUTING.md">Contribute</a> &middot;
-  <a href="https://github.com/orgs/GlycemicGPT/discussions">Discussions</a>
+  <a href="https://github.com/GlycemicGPT/GlycemicGPT/discussions">Discussions</a>
 </p>
 
 ---
@@ -134,7 +134,7 @@ We welcome contributions from developers, designers, and people living with diab
 
 - Read the [Contributing Guide](https://github.com/GlycemicGPT/GlycemicGPT/blob/develop/CONTRIBUTING.md) for the main platform
 - Check out [Good First Issues](https://github.com/GlycemicGPT/GlycemicGPT/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-- Join the [Discussions](https://github.com/orgs/GlycemicGPT/discussions)
+- Join the [Discussions](https://github.com/GlycemicGPT/GlycemicGPT/discussions)
 - Read our [Governance](https://github.com/GlycemicGPT/GlycemicGPT/blob/develop/GOVERNANCE.md) to understand project roles
 
 ### Project Roles
