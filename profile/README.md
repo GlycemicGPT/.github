@@ -13,7 +13,7 @@
   <a href="https://glycemicgpt.org">Website</a> &middot;
   <a href="https://github.com/GlycemicGPT/GlycemicGPT">Platform</a> &middot;
   <a href="https://github.com/GlycemicGPT/GlycemicGPT/blob/develop/CONTRIBUTING.md">Contribute</a> &middot;
-  <a href="https://github.com/GlycemicGPT/GlycemicGPT/discussions">Discussions</a>
+  <a href="https://github.com/GlycemicGPT/GlycemicGPT/discussions">Discussions</a> &middot;
   <a href="https://discord.gg/TJKzjsts">Discord</a>
 </p>
 
